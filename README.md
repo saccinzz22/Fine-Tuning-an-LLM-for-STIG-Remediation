@@ -1,7 +1,5 @@
 # Fine-Tuning-an-LLM-for-STIG-Remediation
 
-# STIG Remediation Script Generator
-
 ## Overview
 This project fine-tunes a large language model (specifically Llama-2-7b) to generate remediation scripts for failed Security Technical Implementation Guide (STIG) tests. The system parses XML STIG reports, extracts failed rules, and trains the model to generate appropriate remediation scripts based on the failure data.
 
